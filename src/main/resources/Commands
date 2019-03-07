@@ -1,0 +1,10 @@
+To clean and compile project :
+
+open command line, path of command line must be project location and enter command : com.bhaiti.rest.controller
+
+To run project :
+
+java -jar target\artifactIdOfRestNDataBaseCall-0.0.1-SNAPSHOT1.jar
+
+
+ 
